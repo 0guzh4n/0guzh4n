@@ -8,13 +8,6 @@
 ![jquery_mobile](https://user-images.githubusercontent.com/5777945/184454130-ce66dd30-9520-450b-a897-082efbbee16e.png), ![icons8-postgresql-32](https://user-images.githubusercontent.com/5777945/184453226-58361af7-9877-4f95-99fb-4b633c52c508.png) , ![icons8-mysql-logo-32](https://user-images.githubusercontent.com/5777945/184453227-4f40fdf2-4935-4cbd-ac1e-7227a4a0778f.png)
 
 
-
-<h2 align="left">Areas</h2>
-
-| ![software](https://user-images.githubusercontent.com/5777945/184452235-4c98770e-c822-45d1-bdaa-8032f91213f9.png) Software Development 
-
-
-
 <h2 align="left">Blogs</h2>
 
 - [Personal Blog](https://oguzhankaraman.com.tr)
