@@ -1,5 +1,5 @@
 <h2 align="center">Hi alien 👋</h2>
-<h3 align="center"> 📊  Data Analyst and   ⚡ Software Developer</h3>
+<h3 align="center"> ⚡ Software Developer</h3>
 
   <h2 align="left">Skills</h2>
 
@@ -21,8 +21,7 @@
 
 <h2 align="left">Blogs</h2>
 
-- [Medium-Personel Blog](https://medium.com/@dbsirmax)
+- [Personal WebSite](https://oguzhankaraman.com.tr)
 
-- [ICTR -Community Blog](https://blog.ictr.club/author/deniz-balci/)
 
 
