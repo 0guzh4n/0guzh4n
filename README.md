@@ -1,5 +1,4 @@
 <h2 align="center">Hi alien 👋</h2>
-<h3 align="center"> ⚡ Software Developer</h3>
 
   <h2 align="left">Skills</h2>
 
@@ -12,16 +11,13 @@
 
 <h2 align="left">Areas</h2>
 
-![computing](https://user-images.githubusercontent.com/5777945/184451876-8cdf8a04-68c6-4c2a-a241-4598454a7242.png)
-  Scientific Computing |   ![icons8-statistics-32](https://user-images.githubusercontent.com/5777945/184454262-563de3a3-5b43-4c5a-b2ed-82333edee86e.png)
-   Data Science |      ![icons8-corona-32](https://user-images.githubusercontent.com/5777945/184454311-98845ba6-ce7f-4bcb-a3be-9f41183593b8.png)
-             Biostatistics   | ![software](https://user-images.githubusercontent.com/5777945/184452235-4c98770e-c822-45d1-bdaa-8032f91213f9.png) Software Development 
+| ![software](https://user-images.githubusercontent.com/5777945/184452235-4c98770e-c822-45d1-bdaa-8032f91213f9.png) Software Development 
 
 
 
 <h2 align="left">Blogs</h2>
 
-- [Personal WebSite](https://oguzhankaraman.com.tr)
+- [Personal Blog](https://oguzhankaraman.com.tr)
 
 
 
